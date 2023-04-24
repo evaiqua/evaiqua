@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Eva!
+Junior Software Testing Engineer. I have excellent knowledge in testing software.
+In general, have experience of testing software on my main course on GeekBrains. And also searching new courses and internships in order to improve my software tester skills.
 
-<!--
-**evaiqua/evaiqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Key points
+*   Write test-case and check-lists.
+*   Make bug reports on Jira.
+*   Study Java.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Stack
+*   Fundamentation of Software Testing
+*   Life cycle of Software
+*   JavaScript 
+*   MySQL
+*   Jira, Trello
+*   Postman, Kanban 
+*   GitHub
