@@ -5,14 +5,13 @@ In general, have experience of testing software on my main course on GeekBrains.
 ### Key points
 *   Write test-case and check-lists.
 *   Make bug reports on Jira.
-*   Study Java.
+*   Make technical insturctions 
 
 
 ## 🛠 Technical Stack
 *   Fundamentation of Software Testing
 *   Life cycle of Software
-*   JavaScript 
-*   MySQL
+*   Basics of SQL
 *   Jira, Trello
-*   Postman, Kanban 
-*   GitHub
+*   Postman
+
